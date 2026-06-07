@@ -2,60 +2,29 @@
 
 Last updated: June 7, 2026
 
-Hermes Agent is an Android application published for internal testing and future public release. This policy explains, in plain language, how the app may handle data.
+Hermes Agent is an Android application published for internal testing and future public release. This policy explains, in plain language, how the app handles data.
 
 ## Summary
 
-- Hermes Agent is designed to help you interact with AI workflows from Android.
-- The app may process text you enter, files you explicitly select, and service configuration you provide.
-- Data may be sent to AI or infrastructure providers you choose or that are configured for the service.
-- Hermes Agent does not sell your personal information.
+- Hermes Agent does not store your personal data.
+- Hermes Agent does not share your personal data with third parties.
+- Hermes Agent does not collect analytics, advertising identifiers, or tracking data.
 
-## Information the App May Process
+## Data Collection
 
-Depending on how Hermes Agent is used, the app may process:
-
-- prompts, chat messages, and task instructions you enter
-- project names, file paths, and file contents you explicitly open or submit
-- app diagnostics such as crash information, logs, and basic device metadata
-- account or API configuration you provide to connect Hermes Agent to supported services
-
-## How Information Is Used
-
-Information is used only to:
-
-- provide app functionality
-- process requests you initiate
-- improve reliability, security, and debugging
-- comply with legal obligations
+Hermes Agent does not collect or store personal information, account information, chat history, files, diagnostics, or usage analytics on behalf of the app operator.
 
 ## Data Sharing
 
-Hermes Agent may share data with:
-
-- AI model providers and cloud services used to fulfill your requests
-- infrastructure providers needed to operate the service
-- service providers acting on behalf of the app operator
-
-Data is shared only as needed to provide the requested functionality.
+Hermes Agent does not sell, share, or transfer your personal data to third parties.
 
 ## Data Retention
 
-Data may be stored:
-
-- locally on your device
-- on systems you explicitly connect
-- by third-party providers that process requests on behalf of the service
-
-Retention depends on the feature used, your settings, and the policies of connected providers.
+Because Hermes Agent does not collect or store personal data on behalf of the app operator, it does not retain personal data.
 
 ## Your Choices
 
-You can limit data use by:
-
-- avoiding submission of sensitive information
-- controlling which files and content you share
-- disconnecting configured services or removing the app
+If you no longer want to use Hermes Agent, you can stop using the app or uninstall it at any time.
 
 ## Children
 
@@ -63,7 +32,7 @@ Hermes Agent is not directed to children under 13.
 
 ## Security
 
-Reasonable measures are used to protect information, but no system can guarantee absolute security.
+Because Hermes Agent does not store personal data on behalf of the app operator, there is no hosted personal data repository maintained by the app operator for the app.
 
 ## Changes
 
